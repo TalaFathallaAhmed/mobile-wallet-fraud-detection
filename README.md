@@ -51,4 +51,4 @@ A Gradio application allows users to enter transaction details and receive a fra
 The dataset is synthetic and may not represent real-world fraud patterns. The high model scores require further investigation and validation. The application is a demonstration, not a production financial security system.
 
 ## Author
-[Your Name]
+[Tala Fathalla Ahmed]
